@@ -7,7 +7,7 @@ def roll
   rand 1...6
 end
 
-def roll
+def rolls
   # code goes here
   rand 6
 end
