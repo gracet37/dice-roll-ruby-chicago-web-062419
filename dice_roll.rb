@@ -4,5 +4,6 @@
 
 def roll
   # code goes here
-  rand 
+  rolls = [1...7]
+  rand rolls.sample
 end
